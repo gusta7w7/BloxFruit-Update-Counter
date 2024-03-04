@@ -39,7 +39,7 @@
 ### <p align="center"> Instalação</p>
 <strong>Termux (Android)</strong>
 ```bash
-pkg update && pkg upgrade && pkg install python3 && pkg install git && git clone https://github.com/Srabelha7w7mann/BloxFruit-Update-Counter && cd BloxFruit-Update-Counter && pip install -r requirements.txt && python3 bloxfruitsupdate.py
+pkg update && pkg upgrade && pkg install python3 && pkg install git && git clone https://github.com/gusta7w7/BloxFruit-Update-Counter && cd BloxFruit-Update-Counter && pip install -r requirements.txt && python3 bloxfruitsupdate.py
 ```
 <strong>Windows</strong>
 ```
