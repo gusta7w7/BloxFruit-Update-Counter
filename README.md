@@ -27,7 +27,7 @@
 
 ## Desenvolvedores
 
-| [<img src="https://avatars.githubusercontent.com/u/154087947?v=4" width=115><br><sub>Sr abelha</sub>](https://github.com/Srabelha7w7mann) |
+| [<img src="https://avatars.githubusercontent.com/u/154087947?v=4" width=115><br><sub>Sr abelha</sub>](https://github.com/gusta7w7) |
 | :---: |
 
 ## Aviso!
@@ -39,7 +39,7 @@
 ### <p align="center"> Instalação</p>
 <strong>Termux (Android)</strong>
 ```bash
-pkg update && pkg upgrade && pkg install python3 && pkg install git && git clone https://github.com/Srabelha7w7mann/BF-COUNTER && cd BF-COUNTER && pip install -r requirements.txt && python3 bloxfruitsupdate.py
+pkg update && pkg upgrade && pkg install python3 && pkg install git && git clone https://github.com/Srabelha7w7mann/BloxFruit-Update-Counter && cd BloxFruit-Update-Counter && pip install -r requirements.txt && python3 bloxfruitsupdate.py
 ```
 <strong>Windows</strong>
 ```
