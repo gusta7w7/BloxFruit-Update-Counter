@@ -27,7 +27,7 @@
 
 ## Desenvolvedores
 
-| [<img src="https://avatars.githubusercontent.com/u/154087947?v=4" width=115><br><sub>Sr abelha</sub>](https://github.com/gusta7w7) |
+| [<img src="https://avatars.githubusercontent.com/u/154087947?v=4" width=115><br><sub>gusta7w7</sub>](https://github.com/gusta7w7) |
 | :---: |
 
 ## Aviso!
